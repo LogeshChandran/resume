@@ -1,0 +1,22 @@
+numpy - Proficient in utilizing NumPy for efficient data manipulation, mathematical operations, and array handling in Python applications
+pandas - Experienced in Pandas for data manipulation, analysis, and transformation, facilitating data-driven decision-making.
+matplotlib - Proficient in creating data visualizations and interactive plots using Matplotlib to effectively communicate complex information and insights
+seaborn - Experienced in utilizing Seaborn to create captivating data visualizations and informative statistical plots, enhancing data understanding
+plotly - Skilled in harnessing the power of Plotly and Cufflinks to craft dynamic and engaging data visualizations in Python applications
+cufflinks - 
+selenium - Proficient in utilizing Selenium for automated testing and web scraping, enhancing software quality and data acquisition through 
+				efficient and reliable automation solutions.
+		   Experienced in leveraging Selenium's capabilities to develop browser automation scripts, streamlining repetitive tasks and 
+				optimizing workflows for improved efficiency.
+beautifulsoup -  Proficient in web scraping using BeautifulSoup, extracting and parsing data from diverse sources, and integrating it 
+				seamlessly into applications for data-driven decision-making.
+openpyxl - Skilled in creating dynamic Excel spreadsheets, performing tasks such as  manipulate and automate Excel files,data extraction, 
+				formatting, and chart generation using the openpyxl library for efficient data visualization.
+tkinter - Proficient in designing interactive and user-friendly graphical interfaces using the Tkinter library, enhancing user 
+				experience and engagement in Python applications.
+threading - Proficient in utilizing Python's threading module to develop multi-threaded applications, optimizing concurrent 
+			task execution and enhancing overall performance
+Django - Proficient in utilizing the Django framework to develop web applications, leveraging its powerful  
+			efficient back-end development, database management, and REST API integration.
+scikit-learn - 
+TensorFlow - 

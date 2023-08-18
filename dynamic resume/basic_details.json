@@ -1,0 +1,129 @@
+{
+  "basics" : {
+    "name": [
+      {
+        "visibility " : 1,
+        "value" : "Logesh Chandran"
+      }
+    ],
+    "label": [
+      {
+        "visibility " : 1,
+        "value" : "Python Developer"
+      }
+    ],
+    "picture": [
+      {
+        "visibility " : 1,
+        "value" : "171CS190.png"
+      }
+    ],
+    "email": [
+      {
+        "visibility " : 1,
+        "value" : "Logeshchandran2507@gmail.com"
+      }
+    ],
+    "phone": [
+      {
+        "visibility " : 1,
+        "value" : "+919786221202"
+      }
+    ],
+    "summary": [
+      {
+        "visibility " : 1,
+        "value" : "Experience Software Engineer with over 2.4 years of experience in IT. Excellent reputation for resolving problems and improving customer satisfaction.Good experience in Python Selenium Framework"
+      }
+    ],
+    "location": {
+      "door": [
+          {
+            "visibility " : 1,
+            "value" : "2/83,"
+          }
+        ],
+      "village": [
+          {
+            "visibility " : 1,
+            "value" : "Eachawari East Thoottam,"
+          }
+        ],
+      "post": [
+          {
+            "visibility " : 1,
+            "value" : "Bommasamuthiram post,"
+          }
+        ],
+      "district ": [
+          {
+            "visibility " : 1,
+            "value" : "Namakkal,"
+          }
+        ],
+      "state": [
+          {
+            "visibility " : 1,
+            "value" : "Tamil Nadu,"
+          }
+        ],
+      "country": [
+          {
+            "visibility " : 1,
+            "value" : "India"
+          }
+        ],
+      "postalCode": [
+          {
+            "visibility " : 1,
+            "value" : "637002"
+          }
+        ]
+    },
+    "Gender": [
+      {
+        "visibility " : 1,
+        "value" : "Male"
+      }
+    ],
+    "Data Of Birth": [
+      {
+        "visibility " : 1,
+        "value" : "25/07/2000"
+      }
+    ],
+    "Father Name": [
+      {
+        "visibility " : 1,
+        "value" : "Chandran"
+      }
+    ]
+  },
+  "work": [{
+    "company": "Company",
+    "position": "President",
+    "website": "http://company.com",
+    "startDate": "2013-01-01",
+    "endDate": "2014-01-01",
+    "summary": "Description...",
+    "highlights": [
+      "Started the company"
+    ]
+  }],
+  "education": [{
+    "institution": "University",
+    "area": "Software Development",
+    "studyType": "Bachelor",
+    "startDate": "2011-01-01",
+    "endDate": "2013-01-01",
+    "gpa": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Master",
+    "keywords": ["HTML","CSS","Javascript"]
+  }]
+}

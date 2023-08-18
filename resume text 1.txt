@@ -1,0 +1,26 @@
+json
+python - numpy, pandas, matplotlib, seaborn, plotly, cufflinks, selenium, beautifulsoup, openpyxl, 
+		tkinter,threading, django,selenium,scikit-learn, TensorFlow
+javascript
+HTML
+CSS
+SQL
+API
+
+
+all asset check in one website
+webscraping all the data into excel
+download all the image form website
+advance filter automation for json
+advance webscraping automation for geting data from ecommace website and store it in excel
+
+
+
+Programming Languages: Python
+Web Frameworks: Django
+Data Visualization: Plotly, Cufflinks
+Database Management: SQL, PostgreSQL
+Version Control: Git
+Front-end Technologies: HTML, CSS, JavaScript (basic)
+Tools: PyCharm, Visual Studio Code, Jupyter,IDLE
+

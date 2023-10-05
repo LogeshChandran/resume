@@ -12,7 +12,7 @@ all asset check in one website
 webscraping all the data into excel
 download all the image form website
 advance filter automation for json
-advance webscraping automation for geting data from ecommace website and store it in excel
+advance webscraping automation for getting data from Ecommerce website and store it in excel
 
 
 
@@ -23,4 +23,15 @@ Database Management: SQL, PostgreSQL
 Version Control: Git
 Front-end Technologies: HTML, CSS, JavaScript (basic)
 Tools: PyCharm, Visual Studio Code, Jupyter,IDLE
+
+
+idea submitting - Implemented an innovative idea in Microsoft Banner, resulting in a sales percentage 
+				increase of 0.8%, effectively reaching a broader customer base compared to previous periods.
+store website data using selenium - Used Python and JavaScript to fetch the element from the web and stored 
+						the results in XML spreadsheet to avoid manual work.This script was implemented on 
+						both the client's side and the client partners' side for efficiency.
+Successfully managed the Microsoft Cashback project for two years, making significant contributions. 
+Improved the program's quality and ensured on-time delivery, reaching a maximum number of customers.
+
+
 
